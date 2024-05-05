@@ -1,2 +1,3 @@
 # Afinador-para-cuerdas-
-A tuner for string instruments wrote on python 
+This is a String Instrument tuner made in pyton made by me. 
+proyect 1/∞
