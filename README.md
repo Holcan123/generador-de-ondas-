@@ -1,3 +1,3 @@
-# Afinador-para-cuerdas-
-This is a String Instrument tuner made in pyton made by me. 
+# generador de ondas -
+this is a wave genrator made by me with the hopes and dremas of learning pyton 
 proyect 1/∞
